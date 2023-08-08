@@ -5,7 +5,7 @@ To host this app in the streamlit cloud, you will need to create an account [her
 
 ### To run this code:
 1. Download the source code.
-2. Open a terminal and go to the folder where you have saved the source code
-3. Run the streamlit app as: **streamlit run youtube_video_summary.py**, which will create local/network urls
-4. Copy the url in the browser
+2. Open a terminal and go to the folder where you have saved the source code.
+3. Run the streamlit app as: **streamlit run youtube_video_summary.py**, which will create local/network urls.
+4. Copy the url in the browser.
 
