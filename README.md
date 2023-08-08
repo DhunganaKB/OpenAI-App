@@ -1,6 +1,6 @@
 # OpenAI-App
 
-To run these examples, you'll need an OpenAI account and API key [(create a free account)](https://openai.com/product).
+To run these examples, you'll need an OpenAI account and API key [(create a free account)](https://openai.com/product). <br />
 To host this app in the streamlit cloud, you will need to create an account [here](https://streamlit.io/).
 
 ### To run this code:
