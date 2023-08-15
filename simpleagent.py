@@ -10,7 +10,7 @@ headers = {
     "authorization":st.secrets['OPENAI_API_KEY'],
     "content-type":"application/json"
     }
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+
 ## App info
 st.title('Simple Math Chatbot')
 query = st.text_input("Write a simple math question: ", key="input")
