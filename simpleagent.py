@@ -1,4 +1,5 @@
 import streamlit as st
+import openai
 from langchain.agents.agent_toolkits import create_python_agent
 from langchain.tools.python.tool import PythonREPLTool  
 from langchain.llms import OpenAI
@@ -10,7 +11,7 @@ headers = {
     "authorization":st.secrets['OPENAI_API_KEY'],
     "content-type":"application/json"
     }
-
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 ## App info
 st.title('Simple Math Chatbot')
 query = st.text_input("Write a simple math question: ", key="input")
