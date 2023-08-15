@@ -2,3 +2,4 @@ pytube
 streamlit
 openai
 python-dotenv
+langchain
