@@ -1,22 +1,21 @@
 import streamlit as st
-from streamlit_chat import message
+from langchain.agents.agent_toolkits import create_python_agent
+from langchain.tools.python.tool import PythonREPLTool  
+from langchain.llms import OpenAI
 
 # from dotenv import load_dotenv, find_dotenv
 # load_dotenv(find_dotenv(), override=True)
-
+### Authentication
 headers = {
     "authorization":st.secrets['OPENAI_API_KEY'],
     "content-type":"application/json"
     }
 openai.api_key = st.secrets["OPENAI_API_KEY"]
-
-from langchain.agents.agent_toolkits import create_python_agent
-from langchain.tools.python.tool import PythonREPLTool  
-from langchain.llms import OpenAI
-
+## App info
 st.title('Simple Math Chatbot')
 query = st.text_input("Write a simple math question: ", key="input")
 
+# openai and agent
 llm = OpenAI(temperature=0)
 agent_executor = create_python_agent(
     llm=llm,
