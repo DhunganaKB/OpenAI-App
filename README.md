@@ -4,10 +4,12 @@
 pip install "fastapi[all]"
 uvicorn main:app --reload
 ```
-### using Postman for testing
+### Using Postman for testing
 
 url - http://0.0.0.0:80/response
+
 method - POST
+
 Body(raw) - json
 
 ``` json
@@ -15,7 +17,7 @@ Body(raw) - json
     "text": "who won the election?"
 }
 ```
-### docker
+### Docker
 ```
 docker build -t llm-app .
 docker run -d -p 8080:80 llm-app
