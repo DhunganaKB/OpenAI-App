@@ -1,5 +1,4 @@
-pytube 
-streamlit
-openai
-python-dotenv
+fastapi
+langchain-openai
 langchain
+uvicorn[standard]

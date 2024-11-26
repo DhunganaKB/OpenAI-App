@@ -1,0 +1,68 @@
+The 2024 United States presidential election, held on November 5, featured Republican candidate Donald Trump and Democratic candidate Kamala Harris. Trump, who previously served as the 45th president from 2017 to 2021, sought a non-consecutive second term, while Harris, the incumbent vice president, aimed to become the first female president.
+
+**Election Outcome:**
+
+Donald Trump secured the presidency with 312 electoral votes, surpassing the 270 required to win. Kamala Harris garnered 226 electoral votes. In the popular vote, Trump led by approximately 1.6%, marking a significant political comeback. 
+
+**State-by-State Results:**
+
+Below is a summary of the election results by state, including the electoral votes and the percentage of the popular vote each candidate received:
+
+| State             | Electoral Votes | Trump (%) | Harris (%) |
+|-------------------|-----------------|-----------|------------|
+| Alabama           | 9               | 65%       | 34%        |
+| Alaska            | 3               | 55%       | 41%        |
+| Arizona           | 11              | 52%       | 47%        |
+| Arkansas          | 6               | 64%       | 34%        |
+| California        | 54              | 36%       | 61%        |
+| Colorado          | 10              | 44%       | 53%        |
+| Connecticut       | 7               | 46%       | 52%        |
+| Delaware          | 3               | 45%       | 53%        |
+| Florida           | 30              | 56%       | 43%        |
+| Georgia           | 16              | 51%       | 49%        |
+| Hawaii            | 4               | 37%       | 61%        |
+| Idaho             | 4               | 67%       | 30%        |
+| Illinois          | 19              | 44%       | 55%        |
+| Indiana           | 11              | 59%       | 40%        |
+| Iowa              | 6               | 56%       | 43%        |
+| Kansas            | 6               | 57%       | 41%        |
+| Kentucky          | 8               | 65%       | 34%        |
+| Louisiana         | 8               | 60%       | 38%        |
+| Maine             | 4               | 46%       | 52%        |
+| Maryland          | 10              | 35%       | 63%        |
+| Massachusetts     | 11              | 36%       | 61%        |
+| Michigan          | 15              | 50%       | 48%        |
+| Minnesota         | 10              | 51%       | 47%        |
+| Mississippi       | 6               | 61%       | 37%        |
+| Missouri          | 10              | 58%       | 40%        |
+| Montana           | 4               | 58%       | 38%        |
+| Nebraska          | 5               | 60%       | 39%        |
+| Nevada            | 6               | 51%       | 47%        |
+| New Hampshire     | 4               | 47%       | 52%        |
+| New Jersey        | 14              | 46%       | 52%        |
+| New Mexico        | 5               | 45%       | 53%        |
+| New York          | 28              | 44%       | 55%        |
+| North Carolina    | 16              | 51%       | 48%        |
+| North Dakota      | 3               | 67%       | 31%        |
+| Ohio              | 17              | 55%       | 44%        |
+| Oklahoma          | 7               | 66%       | 32%        |
+| Oregon            | 7               | 41%       | 55%        |
+| Pennsylvania      | 19              | 50%       | 49%        |
+| Rhode Island      | 4               | 42%       | 55%        |
+| South Carolina    | 9               | 58%       | 40%        |
+| South Dakota      | 3               | 63%       | 34%        |
+| Tennessee         | 11              | 64%       | 34%        |
+| Texas             | 40              | 56%       | 42%        |
+| Utah              | 6               | 59%       | 38%        |
+| Vermont           | 3               | 32%       | 64%        |
+| Virginia          | 13              | 47%       | 52%        |
+| Washington        | 12              | 39%       | 58%        |
+| West Virginia     | 4               | 70%       | 28%        |
+| Wisconsin         | 10              | 50%       | 49%        |
+| Wyoming           | 3               | 72%       | 26%        |
+
+*Note: Percentages are approximate and based on reported data.*
+
+Trump's victories in key battleground states such as Pennsylvania, Michigan, and Wisconsin were pivotal to his electoral success. Notably, he regained these states, often referred to as the "Blue Wall," which had been Democratic strongholds in previous elections. 
+
+This election marked the first time since Grover Cleveland in 1892 that a former president was elected to a non-consecutive second term.
