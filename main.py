@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-import config
 from pydantic import BaseModel
 from langchain_openai import ChatOpenAI
 from langchain import PromptTemplate
@@ -7,12 +6,10 @@ import os
 from generate import generate
 import uvicorn
 
-api_key = config.api_key
-print(api_key)
-model_name = config.model_name
+os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+os.environ["MODEL_NAME"] = MODEL_NAME
 
-os.environ["OPENAI_API_KEY"] = api_key
-llm = ChatOpenAI(model=model_name)
+llm = ChatOpenAI(model=MODEL_NAME)
 
 app = FastAPI()
 
@@ -32,7 +29,3 @@ def generate_response(body: Body):
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=80)
-
-
-
-
